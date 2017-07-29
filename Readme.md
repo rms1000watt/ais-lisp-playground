@@ -45,3 +45,11 @@ end tell
 ```
 
 Then `export` this script as an `Application`. You can now open AIS LISP using that application!
+
+
+#### Usage
+
+**Line evaluation**
+On the line you want to evaluate, press `ctrl`+`enter`.
+
+
