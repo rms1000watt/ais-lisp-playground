@@ -15,8 +15,11 @@
 (mod 3 4)
 (+ (+ 1 2) (- 2 5))
 (abs -3)
+(+ 1 (pi))
 
 (display (conjugate (new Complex: 1.0 2.0)))
+(display (cos       (new Complex: pi     )))
+(display (+ #c1.0-2.0i 2))
 
 
 ;; Bool
